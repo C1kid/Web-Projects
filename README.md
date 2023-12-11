@@ -1,2 +1,2 @@
-# Shopping Website
+Sample Web projects
 Website
